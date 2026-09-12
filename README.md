@@ -16,7 +16,7 @@ Im a software developer with a passion for **Reverse Engineering** and **Game Mo
 
 ### 🚀 Upcoming Projects & Goals
 - 🎮 **Game Mods:** Tweaking mechanics, adding custom features, and pushing games to their limits
-- 🔓 **Tools:** Creating cheats, trainers, or automated tools for memory injection and analysis
+- 🔓 **Tools:** Creating cheats, checkers, mods or automated tools for memory injection and analysis
 
 ---
 
