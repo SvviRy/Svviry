@@ -1,6 +1,6 @@
 # 😋 About Me:
-**Im Svvir** a software developer with a passion for Reverse Engineering and Game Modding i enjoy breaking games apart to understand how they work under the hood from analyzing memory and bytecode to modifying game logic and engine behavior<br>Through various projects ive honed my skills in building custom tools automation scripts and performance tweaks using C++ Java and Python im always looking to push games beyond their original limits and explore low level programming challenges<br>
-<img align="right" width="300" src="https://github.com/SvviRy/Svviry/blob/main/xxxx.gif?raw=ture">
+**Im Svvir** a software developer with a passion for Reverse Engineering and Game Modding i enjoy breaking games apart to understand how they work under the hood from analyzing memory and bytecode to modifying game logic and engine behavior<br>Through various projects ive honed my skills in building custom tools automation scripts and performance tweaks using C++ Java and Python im always looking to push games beyond their original limits and explore low level programming challenges<br> <img align="right" width="150" src="https://github.com/SvviRy/Svviry/blob/main/xxxx.gif?raw=ture">
+
 
 
 # 💻 Tech Stack:
