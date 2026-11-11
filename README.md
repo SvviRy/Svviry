@@ -10,7 +10,7 @@
 ![](https://streak-stats.demolab.com/?user=Svvir&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Svvir&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
---- <img align="right" width="150" src="https://github.com/SvviRy/Svviry/blob/main/xxxx.gif?raw=ture">
+---
 [![](https://komarev.com/ghpvc/?username=Svvir&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
